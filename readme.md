@@ -5,5 +5,7 @@
 Prva spletna stran
 
 ## Opis strani
+bla bla
 
-![Alt text] (https://miro.medium.com/max/1400/1*MJgYIzYkSOSrHNe4PaJgyw.jpeg)
+! [Alt text] (https://miro.medium.com/max/1400/1*MJgYIzYkSOSrHNe4PaJgyw.jpeg)
+! [Alt] (https://miro.medium.com/max/1400/1*MJgYIzYkSOSrHNe4PaJgyw.jpeg)
